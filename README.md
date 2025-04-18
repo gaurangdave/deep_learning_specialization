@@ -29,7 +29,7 @@ This notebook implements a simple **2-layer neural network** from scratch (using
 <img src="./visualizations/hidden_layers.gif">
 
 #### Bringing Neurons to Life: Hidden Layer Activations
-> A peek into how each hidden neuron responds (activates) to different regions of the input space.
+> Visualizing how each hidden neuron reacts to inputs — lime lines represent positive activations, red lines indicate negative activations, and line thickness + opacity show activation strength (the higher the magnitude, the bolder and brighter the line).
 
 <img src="./visualizations/activations.gif">
 
