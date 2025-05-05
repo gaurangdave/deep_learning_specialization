@@ -7,15 +7,16 @@
 
 This repo is structured as a **learning lab** — combining notebooks, notes, and experiments that align with the specialization curriculum.
 
+## ✅ Current Progress
+
+### Implementing Neural Networks From Scratch
 It focuses on:
 - Implementing neural networks from scratch
 - Visualizing activations and gradients
 - Deepening conceptual understanding through small POCs
 - Documenting insights and learnings for future reference
 
-## ✅ Current Progress
-
-### `notebooks/00_understanding_neural_networks.ipynb`
+[notebooks/00_understanding_neural_networks.ipynb](https://github.com/gaurangdave/deep_learning_specialization/blob/main/notebooks/00_understanding_neural_networks.ipynb)
 
 This notebook implements a simple **2-layer neural network** from scratch (using only NumPy) on the `moons` dataset. Features include:
 - Forward and backward propagation
@@ -35,6 +36,7 @@ This notebook implements a simple **2-layer neural network** from scratch (using
 
 #### Decision Boundry
 <img src="./visualizations/decision_boundry.png">
+
 
 ## 💻 Tech Stack
 
